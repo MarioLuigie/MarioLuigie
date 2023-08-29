@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarioLuigie
 - 👀 I’m interested in filmmaking and fashion photography
 - 👀 I'm an architect
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning Java Script, React, Next
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
