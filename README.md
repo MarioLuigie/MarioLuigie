@@ -1,12 +1,12 @@
 # 👋 Hi, I’m MarioLuigie
 
-Welcome to my GitHub profile! I’m a **filmmaker** and **fashion photographer** with a passion for building elegant and scalable web applications as a **Next.js fullstack developer and architect**.
+Welcome to my GitHub profile! I’m a **Next.js fullstack developer** with a passion for **filmmaking** and **fashion photography**. I have an **architectural** education.
 
 ## 👀 What I'm interested in
 
+- 💻 **Fullstack Development**: Designing and developing complex web applications using modern technologies.
 - 🎥 **Filmmaking**: I'm fascinated by the art of storytelling through film and the technical aspects behind it.
 - 📸 **Fashion Photography**: Capturing the essence of style and aesthetics through the lens.
-- 💻 **Fullstack Development**: Designing and developing complex web applications using modern technologies.
 
 ## 🚀 Technologies & Tools I'm working with
 
@@ -15,7 +15,7 @@ I'm currently expanding my skills in both front-end and back-end development. He
 - **Frontend**: JavaScript (JS), TypeScript (TS), React.js, Next.js
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, Mongoose, Prisma
-- **Cloud**: Appwrite
+- **Cloud**: Appwrite, Clerk, Kinde
 
 ## 🌱 What I'm currently learning
 
@@ -24,6 +24,7 @@ I'm constantly learning and improving my development skills. At the moment, I’
 - Vanilla JS, TS, React.js, Next.js
 - Backend technologies like Node.js, Express.js
 - NoSQL databases (MongoDB) and ORM tools (Mongoose, Prisma)
+- SQL databases
 
 ## 💼 Looking to collaborate on
 
