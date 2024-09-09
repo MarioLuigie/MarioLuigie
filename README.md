@@ -34,9 +34,9 @@ I’m open to collaborating on **fullstack web projects**, especially those invo
 
 You can reach me via:
 
-- **Email**: [your-email@example.com](mailto:mk.lotocki@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/mariusz-łotocki-509791257)
-- **Portfolio**: [Your Website or Portfolio](https://yourwebsite.com)
+- **Email**: [mk.lotocki@gmail.com](mailto:mk.lotocki@gmail.com)
+- **LinkedIn**: [My LinkedIn profile](www.linkedin.com/in/mariusz-łotocki-509791257)
+- **Portfolio**: [My website](https://yourwebsite.com)
 
 Looking forward to connecting with you!
 
