@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I’m a **Next.js fullstack developer** with a pas
 
 - 💻 **Fullstack Development**: Designing and developing complex web applications using modern technologies.
 - 🎥 **Filmmaking**: I'm fascinated by the art of storytelling through film and the technical aspects behind it.
-  **My youtube channel**: [one cine_fashion](https://www.youtube.com/@onecine_fashion4805/featured)
+  - **My youtube channel**: [one cine_fashion](https://www.youtube.com/@onecine_fashion4805/featured)
 - 🎥 **Fashion Photography**: Capturing the essence of style and aesthetics through the lens.
-  **My instagram**: [one.cine_fashion](https://www.instagram.com/one.cine_fashion/)
+  - **My instagram**: [one.cine_fashion](https://www.instagram.com/one.cine_fashion/)
 
 ## 🚀 Technologies & Tools I'm working with
 
