@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a **Next.js fullstack developer** with a pas
 
 - 💻 **Fullstack Development**: Designing and developing complex web applications using modern technologies.
 - 🎥 **Filmmaking**: I'm fascinated by the art of storytelling through film and the technical aspects behind it.
-- 📸 **Fashion Photography**: Capturing the essence of style and aesthetics through the lens.
+- 🎥 **Fashion Photography**: Capturing the essence of style and aesthetics through the lens.
 
 ## 🚀 Technologies & Tools I'm working with
 
