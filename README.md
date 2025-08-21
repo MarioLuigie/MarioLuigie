@@ -16,8 +16,8 @@ I'm currently expanding my skills in both front-end and back-end development. He
 
 - **Frontend**: JavaScript (JS), TypeScript (TS), React.js, Next.js
 - **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, Mongoose, Prisma
-- **Cloud**: Appwrite, Clerk, Kinde
+- **Databases**: MongoDB, postgresql
+- **Cloud**: Appwrite, Clerk, Kinde, NextAuth, OAuth 2.0
 
 ## 🌱 What I'm currently learning
 
@@ -25,8 +25,8 @@ I'm constantly learning and improving my development skills. At the moment, I’
 
 - Vanilla JS, TS, React.js, Next.js
 - Backend technologies like Node.js, Express.js
-- NoSQL databases (MongoDB) and ORM tools (Mongoose, Prisma)
-- SQL databases
+- NoSQL databases (MongoDB) and ORM tool (Mongoose)
+- SQL databases (postgresql) and ORM tool (Prisma)
 
 ## 💼 Looking to collaborate on
 
