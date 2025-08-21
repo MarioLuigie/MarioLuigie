@@ -38,7 +38,7 @@ You can reach me via:
 
 - **Email**: [mk.lotocki@gmail.com](mailto:mk.lotocki@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/mariusz-łotocki-509791257](www.linkedin.com/in/mariusz-łotocki-509791257)
-- **Portfolio**: [My website](https://yourwebsite.com)
+- **Portfolio**: [My website](https://myWeb.com)
 
 Looking forward to connecting with you!
 
