@@ -15,19 +15,20 @@ Strong background in project management, problem solving and client collaboratio
 
 I'm currently expanding my skills in both front-end and back-end development. Here are the technologies I'm learning and working with:
 
-- **Frontend**: JavaScript (JS), TypeScript (TS), React.js, Next.js
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, postgresql
-- **Cloud**: Appwrite, Clerk, Kinde, NextAuth, OAuth 2.0
+- **Frontend**: JavaScript (JS ES6+), TypeScript (TS), React.js, Next.js
+- **Backend**: Node.js, Express.js, Zod, REST/External API integrations, Stripe, PayPal, API Routes/Server Actions
+- **Databases**: MongoDB (mongoose), PostgreSQL (Prisma ORM)
+- **Cloud**: Appwrite, Clerk, Kinde, NextAuth, AWS foundational level
+- **Tests**: unit tests in Jest, ISTQB basic knowledge, Jira
 
 ## 🌱 What I'm currently learning
 
 I'm constantly learning and improving my development skills. At the moment, I’m focused on mastering:
 
-- Vanilla JS, TS, React.js, Next.js
+- Vanilla JS ES6+, TS, React.js, Next.js
 - Backend technologies like Node.js, Express.js
 - NoSQL databases (MongoDB) and ORM tool (Mongoose)
-- SQL databases (postgresql) and ORM tool (Prisma)
+- SQL databases (PostgreSQL) and ORM tool (Prisma)
 
 ## 💼 Looking to collaborate on
 
@@ -39,7 +40,6 @@ You can reach me via:
 
 - **Email**: [mk.lotocki@gmail.com](mailto:mk.lotocki@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/mariusz-łotocki-509791257](www.linkedin.com/in/mariusz-łotocki-509791257)
-- **Portfolio**: [My website](https://myWeb.com)
 
 Looking forward to connecting with you!
 
