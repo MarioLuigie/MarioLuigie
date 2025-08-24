@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Mariusz Łotocki
 
-Welcome to my GitHub profile! I’m a junior/mid **Next.js fullstack developer** with a passion for **filmmaking** and **fashion photography**. I have an **architectural** education.
+Welcome to my GitHub profile! I’m a junior/mid Frontend / Fullstack Developer with 2+ years of experience in building modern web applications and 15 years of prior professional experience as an architect and project manager. Skilled in developing frontend, backend, APIs, and integrations using React, Next.js, TypeScript, MongoDB, and PostgreSQL. Experienced with Prisma, Mongoose, Zod, NextAuth, Clerk. 
+Strong background in project management, problem solving and client collaboration, gained through leading complex architectural projects from concept to completion.
 
 ## 👀 What I'm interested in
 
