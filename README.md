@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mariusz Łotocki
 
-Welcome to my GitHub profile! I’m a **Next.js fullstack developer** with a passion for **filmmaking** and **fashion photography**. I have an **architectural** education.
+Welcome to my GitHub profile! I’m a junior/mid **Next.js fullstack developer** with a passion for **filmmaking** and **fashion photography**. I have an **architectural** education.
 
 ## 👀 What I'm interested in
 
