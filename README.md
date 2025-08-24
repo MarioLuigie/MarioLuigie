@@ -1,4 +1,4 @@
-# 👋 Hi, I’m MarioLuigie
+# 👋 Hi, I’m Mariusz Łotocki
 
 Welcome to my GitHub profile! I’m a **Next.js fullstack developer** with a passion for **filmmaking** and **fashion photography**. I have an **architectural** education.
 
